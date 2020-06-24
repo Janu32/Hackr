@@ -48,11 +48,7 @@ def jalan(z):
 
 ##### LOGO #####
 logo = "
-                                                                                                                                      
-                                                                                                                                      
-
-                                                                                                                                      
-                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 \033[1;96HHHHHHHHH     HHHHHHHHH               AAA                  CCCCCCCCCCCCCKKKKKKKKK    KKKKKKKEEEEEEEEEEEEEEEEEEEEEERRRRRRRRRRRRRRRRR   
 \033[1;96H:::::::H     H:::::::H              A:::A              CCC::::::::::::CK:::::::K    K:::::KE::::::::::::::::::::ER::::::::::::::::R  
 \033[1;96H:::::::H     H:::::::H             A:::::A           CC:::::::::::::::CK:::::::K    K:::::KE::::::::::::::::::::ER::::::RRRRRR:::::R 
@@ -68,16 +64,7 @@ logo = "
 \033[1;96HH::::::H     H::::::HH   A:::::A             A:::::AC:::::CCCCCCCC::::CK:::::::K   K::::::KEE::::::EEEEEEEE:::::ERR:::::R     R:::::R
 \033[1;96H:::::::H     H:::::::H  A:::::A               A:::::ACC:::::::::::::::CK:::::::K    K:::::KE::::::::::::::::::::ER::::::R     R:::::R
 \033[1;96H:::::::H     H:::::::H A:::::A                 A:::::A CCC::::::::::::CK:::::::K    K:::::KE::::::::::::::::::::ER::::::R     R:::::R
-\033[1;96HHHHHHHHH     HHHHHHHHHAAAAAAA                   AAAAAAA   CCCCCCCCCCCCCKKKKKKKKK    KKKKKKKEEEEEEEEEEEEEEEEEEEEEERRRRRRRR     RRRRRRR
-                                                                                                                                      
-                                                                                                                                      
-                                                                                                                                      
-                                                                                                                                      
-                                                                                                                                      
-                                                                                                                                      
-                                                                                                                                      
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                                
+\033[1;96HHHHHHHHH     HHHHHHHHHAAAAAAA                   AAAAAAA   CCCCCCCCCCCCCKKKKKKKKK    KKKKKKKEEEEEEEEEEEEEEEEEEEEEERRRRRRRR     RRRRRRR                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 \033[1;91m=======================================Fast🔥
 \033[1;96mAuthor  \033[1;93m: \033[1;92mIKRAM AKBAR
 \033[1;96mInstagram \033[1;93m: \033[1;92mikramfollow
