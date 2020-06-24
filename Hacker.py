@@ -47,8 +47,7 @@ def jalan(z):
 
 
 ##### LOGO #####
-logo = """
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+logo = """                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 \033[1;96HHHHHHHHH     HHHHHHHHH               AAA                  CCCCCCCCCCCCCKKKKKKKKK    KKKKKKKEEEEEEEEEEEEEEEEEEEEEERRRRRRRRRRRRRRRRR   
 \033[1;96H:::::::H     H:::::::H              A:::A              CCC::::::::::::CK:::::::K    K:::::KE::::::::::::::::::::ER::::::::::::::::R  
 \033[1;96H:::::::H     H:::::::H             A:::::A           CC:::::::::::::::CK:::::::K    K:::::KE::::::::::::::::::::ER::::::RRRRRR:::::R 
