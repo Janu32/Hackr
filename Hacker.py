@@ -47,20 +47,43 @@ def jalan(z):
 
 
 ##### LOGO #####
-logo = """ -----------------------------•◈•
-(  __)\\ ____--------------_------------•◈•
-|__(~)    •||•THE - AAHIL -OFFICAL------•◈•
-|__\~~) •||•RANA - RAJPUT---------------•◈•
-|__(-----\  •◈•------BLACK-TIGER--------•◈•
-|__~~~\ •◈•-----█-------⑦-------█------•◈•
-|__~~~\ •◈•-----█-------⑧-------█------•◈•
-|__~~~\ •◈•-----█-------⑥-------█------•◈•
-\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;FlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1; Aahilrna4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
-\033[1;91m======================================="""
+logo = "
+                                                                                                                                      
+                                                                                                                                      
+
+                                                                                                                                      
+                                                                                                                                      
+\033[1;96HHHHHHHHH     HHHHHHHHH               AAA                  CCCCCCCCCCCCCKKKKKKKKK    KKKKKKKEEEEEEEEEEEEEEEEEEEEEERRRRRRRRRRRRRRRRR   
+\033[1;96H:::::::H     H:::::::H              A:::A              CCC::::::::::::CK:::::::K    K:::::KE::::::::::::::::::::ER::::::::::::::::R  
+\033[1;96H:::::::H     H:::::::H             A:::::A           CC:::::::::::::::CK:::::::K    K:::::KE::::::::::::::::::::ER::::::RRRRRR:::::R 
+\033[1;96HH::::::H     H::::::HH            A:::::::A         C:::::CCCCCCCC::::CK:::::::K   K::::::KEE::::::EEEEEEEEE::::ERR:::::R     R:::::R
+\033[1;96 H:::::H     H:::::H             A:::::::::A       C:::::C       CCCCCCKK::::::K  K:::::KKK  E:::::E       EEEEEE  R::::R     R:::::R
+ \033[1;96H:::::H     H:::::H            A:::::A:::::A     C:::::C                K:::::K K:::::K     E:::::E               R::::R     R:::::R
+ \033[1;93H::::::HHHHH::::::H           A:::::A A:::::A    C:::::C                K::::::K:::::K      E::::::EEEEEEEEEE     R::::RRRRRR:::::R 
+ \033[1;92H:::::::::::::::::H          A:::::A   A:::::A   C:::::C                K:::::::::::K       E:::::::::::::::E     R:::::::::::::RR  
+ \033[1;92H:::::::::::::::::H         A:::::A     A:::::A  C:::::C                K:::::::::::K       E:::::::::::::::E     R::::RRRRRR:::::R 
+ \033[1;92H::::::HHHHH::::::H        A:::::AAAAAAAAA:::::A C:::::C                K::::::K:::::K      E::::::EEEEEEEEEE     R::::R     R:::::R
+\033[1;96H:::::H     H:::::H       A:::::::::::::::::::::AC:::::C                K:::::K K:::::K      E:::::E               R::::R     R:::::R
+ \033[1;96H:::::H     H:::::H      A:::::AAAAAAAAAAAAA:::::AC:::::C       CCCCCCKK::::::K  K:::::KKK  E:::::E       EEEEEE  R::::R     R:::::R
+\033[1;96HH::::::H     H::::::HH   A:::::A             A:::::AC:::::CCCCCCCC::::CK:::::::K   K::::::KEE::::::EEEEEEEE:::::ERR:::::R     R:::::R
+\033[1;96H:::::::H     H:::::::H  A:::::A               A:::::ACC:::::::::::::::CK:::::::K    K:::::KE::::::::::::::::::::ER::::::R     R:::::R
+\033[1;96H:::::::H     H:::::::H A:::::A                 A:::::A CCC::::::::::::CK:::::::K    K:::::KE::::::::::::::::::::ER::::::R     R:::::R
+\033[1;96HHHHHHHHH     HHHHHHHHHAAAAAAA                   AAAAAAA   CCCCCCCCCCCCCKKKKKKKKK    KKKKKKKEEEEEEEEEEEEEEEEEEEEEERRRRRRRR     RRRRRRR
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+                                                                                                                
+\033[1;91m=======================================Fast🔥
+\033[1;96mAuthor  \033[1;93m: \033[1;92mIKRAM AKBAR
+\033[1;96mInstagram \033[1;93m: \033[1;92mikramfollow
+\033[1;96YouTube  \033[1;93m: \033[1;92mIKRAM STUDIO
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/IKRAM-AKBAR
+\033[1;91m》》》》》》》》》》》》》》》》》》》》》》》》》》》🔥"""
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -79,16 +102,16 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print "\033[1;96m ============================================================="
-print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;92mFlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Aahilrana4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Therana/zero
-\033[1;91m======================================="""
+print  """\033[1;91m》》》》》》》》》》》》》》》》》》》》》》》》》》》《🔥
+\033[1;96mAuthor  \033[1;93m: \033[1;92mIKRAM AKBAR
+\033[1;96mInstagram \033[1;93m: \033[1;92mFlow-ikram
+\033[1;96mYouTube  \033[1;93m: \033[1;92mIKRAM STUDIO
+\033[1;96mGithub \033[1;93m: \033[1;96mhttps://Github.com/IKRAM-AKBAR
+\033[1;91m》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》》🔥
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "Hacker"
+CorrectPassword = "janu"
 
 loop = 'true'
 while (loop == 'true'):
@@ -100,10 +123,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+            os.system('xdg-open https://www.youtube.com/channel/UC2X4F2qRcrYBJH9aDA5cOcQ')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+        os.system('xdg-open https://www.youtube.com/channel/UC2X4F2qRcrYBJH9aDA5cOcQ')
 
 def login():
 	os.system('clear')
